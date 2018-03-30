@@ -1,0 +1,4 @@
+li:nth-child(3){  /*--Setting the third item of every li element backgound to blue */
+    background-color:blue;
+    
+}
